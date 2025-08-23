@@ -26,4 +26,8 @@ Requirements
 
 Works on Vue/HTML files
 
-Keybinding: Shift+I
+
+https://github.com/user-attachments/assets/14af1eed-c2cf-4209-9213-3b348e838f02
+
+
+Keybinding: Alt+I

@@ -2,7 +2,7 @@
   "name": "auto-style-generator",
   "displayName": "auto-style-generator",
   "description": "It generates sematic for styles as they declared",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.103.0"
   },
